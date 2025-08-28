@@ -13,3 +13,7 @@ Added YuyanIme and set to default
 add a repo:https://github.com/LibreDroid-System/android_packages_apps_YuyanIme  
 https://github.com/LineageOS/android_packages_apps_SetupWizard/commit/fd3170c5bf6889c636bf0b0883147758756a0531  
 https://github.com/LibreDroid-System/android_build/commit/83bd4f79ada370b3b2c58e9c8be9f8cce4a6176e  
+
+Enabled App Clone for all user-apps  
+https://github.com/LineageOS/android_packages_apps_Settings/commit/4c6e3b59739fec3675d1cbae1c11db256b9c0a6c  
+https://github.com/LineageOS/android_packages_apps_Settings/commit/4555a50b855a58fa6e69ff6e1ee1b9c4fa16bf9e  
