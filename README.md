@@ -17,8 +17,8 @@ https://github.com/LibreDroid-System/android_build/commit/83bd4f79ada370b3b2c58e
 Enabled App Clone for all user-apps  
 https://github.com/LineageOS/android_packages_apps_Settings/commit/4c6e3b59739fec3675d1cbae1c11db256b9c0a6c  
 https://github.com/LineageOS/android_packages_apps_Settings/commit/4555a50b855a58fa6e69ff6e1ee1b9c4fa16bf9e  
-https://github.com/LibreDroid-System/android_packages_apps_Trebuchet/commit/2f105d1d3e964f1d7e581b3e8237d8272926075d（fixed launcher3 doesn't show cloned apps)  
-https://github.com/LibreDroid-System/android_packages_apps_Settings/commit/dae43b192f553998b3aa29e2d0f8ee29c4e25594（fixed no ime enabled in cloned user)   
+https://github.com/LibreDroid-System/android_packages_apps_Trebuchet/commit/2f105d1d3e964f1d7e581b3e8237d8272926075d  （fixed launcher3 doesn't show cloned apps)  
+https://github.com/LibreDroid-System/android_packages_apps_Settings/commit/dae43b192f553998b3aa29e2d0f8ee29c4e25594  （fixed no ime enabled in cloned user)   
 
 Settings About Card  
 https://github.com/LibreDroid-System/android_packages_apps_Settings/commit/b85f9bac8bc4df6440fd50321e5ad526595a12f9  
